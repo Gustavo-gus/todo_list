@@ -1,1 +1,1 @@
-# todo_list
+# todo_list made with javascript, it does not save the list on localstorage but i am planing to add this functionality soon.

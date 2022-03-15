@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(17,86,102);
+}
+
+.container{
+    max-width: 400px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+.container h1 , p{
+    text-align: center;
+}
+.btnAddTask{
+    border: none;
+    background-color: rgb(17, 86, 102);
+    border-radius: 10px;
+    width: 125px;
+    height: 27px;
+    color: #fff;
+}
+button.Apagar{
+    border: none;
+    background-color: rgb(17, 86, 102);
+    border-radius: 10px;
+    width: 50px;
+    height: 27px;
+    color: #fff;
+}
+
+
+
+
