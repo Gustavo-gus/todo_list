@@ -32,6 +32,9 @@ button.Apagar{
     height: 27px;
     color: #fff;
 }
+.tasks li{
+    list-style: none;
+}
 
 
 
